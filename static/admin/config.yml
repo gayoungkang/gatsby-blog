@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: kwonjounghun/gatsby_blog
+  repo: /gayoungkang/gatsby-blog
 
 media_folder: static/assets
 public_folder: assets
